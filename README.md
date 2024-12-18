@@ -39,7 +39,7 @@ Upon generation of an experiment from this template:
 ## Inspect a single experiment
 
 Follow the instructions for reproducing the entire experiment natively, but instead of running `runAllBatch`,
-run `runEXPERIMENTGraphics`, replacing `EXPERIMENT` with the name of the experiment you want to run
+run `runEXPERIMENTGraphic`, replacing `EXPERIMENT` with the name of the experiment you want to run
 (namely, with the name of the YAML simulation file).
 
 If in doubt, run `./gradlew tasks` to see the list of available tasks.
